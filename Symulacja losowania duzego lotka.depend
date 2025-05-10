@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1661384653 source:c:\users\hp\desktop\sciaga z c++\miroslaw zelent programowanie lekcje\odc 4\symulacja losowania duzego lotka\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<time.h>
+	<random>
+	<stdio.h>
+
+1661381053 source:c:\users\hp\desktop\sciaga z c++\mz programowanie w c++\odc 4 losowe\symulacja losowania duzego lotka\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<string.h>
+	<time.h>
+	<random>
+	<stdio.h>
+
