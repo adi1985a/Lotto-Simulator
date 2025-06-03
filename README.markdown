@@ -9,6 +9,8 @@ _A vibrant C++ console lottery simulator where you pick your lucky numbers and c
 
 **LottoDreamer** is an exciting C++ console application that brings the thrill of a lottery draw right to your screen. Players carefully select their six unique lucky numbers from a pool of 1 to 49. The system then performs a random draw of six winning numbers. The game meticulously compares the player's chosen numbers against the drawn numbers, awarding prizes for matching three to six numbers. Featuring a colorful user interface, an eye-catching ASCII logo, and the option to play multiple rounds, LottoDreamer offers a fun and engaging way to test your luck and dream of hitting the jackpot!
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🔢 **Pick Your Lucky Numbers**: Manually select 6 unique numbers from the range of 1 to 49.
@@ -25,9 +27,11 @@ _A vibrant C++ console lottery simulator where you pick your lucky numbers and c
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
-
-_In the future, screenshots showcasing the number selection, the draw, prize announcements, and the ASCII logo will be added here._
+<p align="center">
+  <img src="screenshots\10.jpg" width="300"/>
+  <img src="screenshots\11.jpg" width="300"/>
+  <img src="screenshots\12.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements
 
