@@ -28,9 +28,9 @@ _A vibrant C++ console lottery simulator where you pick your lucky numbers and c
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots\10.jpg" width="300"/>
-  <img src="screenshots\11.jpg" width="300"/>
-  <img src="screenshots\12.jpg" width="300"/>
+  <img src="screenshots\Image10.jpg" width="300"/>
+  <img src="screenshots\Image11.jpg" width="300"/>
+  <img src="screenshots\Image12.jpg" width="300"/>
 </p>
 
 ## ⚙️ System Requirements
